@@ -1,0 +1,29 @@
+.one {
+  background: blue;
+  color: white;
+  margin:50px;
+  padding:50px
+}
+.two{
+  background:yellow;
+  margin:50px;
+  padding:50px
+}
+.three{
+  background:purple;
+  color:white;
+  margin:50px;
+  padding:50px
+}
+.four{
+  background:green;
+  color:red;
+  margin:50px;
+  padding:50px
+}
+.five{background:pink;
+  margin:50px;
+  padding:50px
+}
+
+
