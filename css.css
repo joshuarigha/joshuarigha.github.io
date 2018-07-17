@@ -1,0 +1,37 @@
+
+     ol{
+       margin:50px;
+       padding:50px;
+       font-size:30px;
+       background:red
+     }
+     #red{
+       margin:50px;
+       padding:50px;
+       font-size:30px;
+       font-weight:bold;
+       font-style:italic;
+       background:green;
+       color:blue
+     }
+     #blue{
+       margin:50px;
+       padding:50px;
+       font-size:30px;
+       font-weight:bold;
+       font-style:italic;
+       background:yellow;
+       color:green
+     }
+     #green{
+       margin:50px;
+       padding:50px;
+       font-size:30px;
+       font-weight:bold;
+       font-style:italic;
+       background:blue;
+       color:black;
+     }
+nav {
+  background-color: green;
+}
